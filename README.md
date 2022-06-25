@@ -21,8 +21,7 @@
         <property name="connection.url">jdbc:mysql://localhost:3306/my_db?useSSL=false&amp;serverTimezone=UTC</property>  <!-- URL адрес -->
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <property name="connection.username">bestuser</property>      <!--  имя пользователя учетной записи в БД -->
-      <property name="connection.password">bestuser</property>       <!--  пароль  -->
-
+        <property name="connection.password">bestuser</property>       <!--  пароль  -->
         <property name="current_session_context_class">thread</property>
         <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="show_sql">true</property>
