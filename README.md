@@ -12,24 +12,16 @@
 1. по адресу src/main/resources/hibernate.cfg.xml
 установите имя пользователя , пароль , URL адрес 
 
-<?xml version='1.0' encoding='utf-8'?>
-<!DOCTYPE hibernate-configuration PUBLIC
-        "-//Hibernate/Hibernate Configuration DTD//EN"
-        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
-<hibernate-configuration>
-    <session-factory>
-        <property name="connection.url">jdbc:mysql://localhost:3306/my_db?useSSL=false&amp;serverTimezone=UTC</property>  <!-- URL адрес -->
+        <property name="connection.url">jdbc:mysql://localhost:3306/my_db?useSSL=false&amp;serverTimezone=UTC</property>   URL адрес 
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="connection.username">bestuser</property>      <!--  имя пользователя учетной записи в БД -->
-        <property name="connection.password">bestuser</property>       <!--  пароль  -->
+        <property name="connection.username">bestuser</property>       имя пользователя учетной записи в БД 
+        <property name="connection.password">bestuser</property>        пароль  
         <property name="current_session_context_class">thread</property>
         <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="show_sql">true</property>
+  
 
 
-    </session-factory>
-
-</hibernate-configuration>
 
 
 2. Создать в БД таблицы 
