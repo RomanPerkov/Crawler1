@@ -295,9 +295,7 @@ public class Crawler  {
     }
 
 
-    public void rowCounterInTheDataBase() {
 
-    }
 
     /**
      * Этот метод обращается к обновленной таблице сущностей ссылок на авто. Метод выявляет новые ссылки и создает и добавляет на их основе новые сущности машины в БД.
@@ -389,7 +387,6 @@ public class Crawler  {
                 idNullList.add(id);
                 session.getTransaction().commit();
                 session.close();
-//                factory.close();
                 logger.info("entity nullified");
                 e.printStackTrace();
                 continue;
@@ -464,13 +461,7 @@ public class Crawler  {
         session.close();
         factory.close();
 
-//        if (session != null) {
-//            session.close();
-//        }
-//
-//        if (factory != null) {
-//            factory.close();
-//        }
+
 
     }
 
@@ -478,8 +469,17 @@ public class Crawler  {
 
 
         Crawler crawler = new Crawler();
+        crawler.scanning();   // соберет все ссылки авто в продаже в БД
+        crawler.createObjectsCarInTableDataBase(); // считывает объекты ссылок и на их основе создает сущности авто в БД (используется при первом запуске)
 
+
+        /**
+         * Когда нужно обновить БД ( удалить авто которых уже нет в продаже, добавить новые) нужно очистить таблицу в объектами ссылок и повторно запустить scanning(), потом использовать этот метод
+         * метод удалит авто которых нет в продаже и дополнит таблицу новыми авто
+         */
         crawler.removingInvalidAndAddNewLinksFromDataBase();
+
+
 
 
     }
