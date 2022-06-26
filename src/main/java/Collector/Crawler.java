@@ -9,24 +9,27 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.log4j.Logger;
 
 
-
 import org.hibernate.query.Query;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+
 import java.time.Duration;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
+
 import java.lang.NullPointerException;
+
 import jakarta.persistence.NoResultException;
 
 import static Contants.Constants.*;
 
-public class Crawler  {
+public class Crawler {
 
     protected final static Logger logger = Logger.getLogger(Crawler.class);
 
@@ -55,7 +58,7 @@ public class Crawler  {
     }
 
     /**
-     Этот метод заходит на стартовую страницу сервиса,
+     * Этот метод заходит на стартовую страницу сервиса,
      * показывает все марки автомобилей, создает список всех автомобилей,
      * затем метод проходит по списку, переходя к
      * вкладке каждой марки автомобиля и добавлет туда все ссылки на  автомобили
@@ -165,8 +168,6 @@ public class Crawler  {
     /**
      * Этот метод получает в параметры ссылку на авто , переходит по мней , собирает данные о авто и создает
      * объект авто, возвращает этот объект.
-     *
-     *
      */
     public car collector(href link) {
         System.out.println(link.getHref());
@@ -231,15 +232,14 @@ public class Crawler  {
     }
 
     /**
-     Этот метод запрашивает у БД объекты ссылки, проходит по ним собирает инфрмацию ,
-     создает объект авто и помещает ее в таблицу объектьов авто в БД
+     * Этот метод запрашивает у БД объекты ссылки, проходит по ним собирает инфрмацию ,
+     * создает объект авто и помещает ее в таблицу объектьов авто в БД
      */
     public void createObjectsCarInTableDataBase() {
         SessionFactory factory = null;
         Session session = null;
         int count = 1;
         car car = null;
-
 
 
         while (true) {                                                              // запускаем цикл сбора ( проход по каждой ссылке и сбор информации) пока не закончится список
@@ -295,8 +295,6 @@ public class Crawler  {
     }
 
 
-
-
     /**
      * Этот метод обращается к обновленной таблице сущностей ссылок на авто. Метод выявляет новые ссылки и создает и добавляет на их основе новые сущности машины в БД.
      * Метод выявляет устаревшие ссылки которых больше нет на сервисе и удаляет сущности авто с этими ссылками.
@@ -306,7 +304,7 @@ public class Crawler  {
         String tempHref = "";
         SessionFactory factory;
         Session session;
-        int count = 10;
+        int count = 1;
         String id = "";
         href href = null;
         List<href> temp = new ArrayList<>();
@@ -357,23 +355,23 @@ public class Crawler  {
  * если в сервсие появились новые машины в эти id буудт записаные данные новых сущностей машин
  */
 
-        count = 0;
+        count = 1;
 
 
         while (true) {
             try {
+
                 session = factory.getCurrentSession();
                 session.beginTransaction();
+                //href = session.get(href.class, String.valueOf(count));
                 car = session.get(car.class, String.valueOf(count));
                 tempHref = car.getHref();
-                id = href.getId();
+                id = car.getId();
                 Query query = session.createQuery("select href from href where href=:tempHref");
                 query.setParameter("tempHref", tempHref);
                 System.out.println(query.getSingleResult());
-
+                count++;
             } catch (NoResultException e) {
-                session = factory.getCurrentSession();
-                session.beginTransaction();
                 car deleteCar = session.get(car.class, id);
                 deleteCar.setTradeAccount(null);
                 deleteCar.setProductionEar(null);
@@ -383,12 +381,14 @@ public class Crawler  {
                 deleteCar.setMileage(null);
                 deleteCar.setEngineCapacity(null);
                 deleteCar.setHref(null);
+                deleteCar.setBrand(null);
                 session.update(deleteCar);
                 idNullList.add(id);
                 session.getTransaction().commit();
                 session.close();
                 logger.info("entity nullified");
                 e.printStackTrace();
+                count++;
                 continue;
             } catch (NullPointerException w) {
                 logger.info("END list");
@@ -405,7 +405,7 @@ public class Crawler  {
  * он проходит по коллекции в которую добавились новые машины собирает о них данные  , создает сущности и
  * перезаписывает null строки в таблице если таковые имеются новыми сущностями иначе создает новую сущность в таблице.
  */
-        logger.info("НАЧАЛО ЦИКЛА");
+
         while (true) {
 
 
@@ -462,15 +462,15 @@ public class Crawler  {
         factory.close();
 
 
-
     }
 
     public static void main(String[] args) {
 
 
+
         Crawler crawler = new Crawler();
-        crawler.scanning();   // соберет все ссылки авто в продаже в БД
-        crawler.createObjectsCarInTableDataBase(); // считывает объекты ссылок и на их основе создает сущности авто в БД (используется при первом запуске)
+        // crawler.scanning();   // соберет все ссылки авто в продаже в БД
+        // crawler.createObjectsCarInTableDataBase(); // считывает объекты ссылок и на их основе создает сущности авто в БД (используется при первом запуске)
 
 
         /**
@@ -478,8 +478,6 @@ public class Crawler  {
          * метод удалит авто которых нет в продаже и дополнит таблицу новыми авто
          */
         crawler.removingInvalidAndAddNewLinksFromDataBase();
-
-
 
 
     }
