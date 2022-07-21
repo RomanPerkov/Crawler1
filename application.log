@@ -47955,3 +47955,1293 @@
 2022-06-25 18:39:59 INFO  [main]: НАЧАЛО ЦИКЛА
 2022-06-25 18:39:59 INFO  [main]: no new entities found
 2022-06-25 18:39:59 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:17 INFO  [main]: HHH000412: Hibernate ORM core version 6.1.1.Final
+2022-07-21 17:50:19 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:19 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:19 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:19 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:19 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:19 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:20 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:20 INFO  [main]: HV000001: Hibernate Validator 8.0.0.CR1
+2022-07-21 17:50:21 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:21 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:21 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:21 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:21 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:21 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:21 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:21 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:21 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:21 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:21 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:21 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:21 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:21 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:21 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:21 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:21 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:21 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:22 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:22 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:22 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:22 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:22 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:22 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:22 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:22 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:22 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:22 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:22 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:22 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:22 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:22 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:22 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:22 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:22 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:22 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:22 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:22 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:22 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:22 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:22 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:22 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:22 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:22 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:22 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:22 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:22 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:22 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:22 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:22 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:22 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:22 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:22 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:22 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:22 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:22 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:23 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:23 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:23 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:23 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:23 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:23 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:23 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:23 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:24 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:24 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:24 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:24 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:24 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:24 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:24 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:24 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:25 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:25 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:25 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:25 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:25 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:25 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:25 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:25 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:26 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:26 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:26 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:26 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:26 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:26 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:26 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:26 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:27 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:27 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:27 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:27 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:27 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:27 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:27 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:27 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:28 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:28 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:28 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:28 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:28 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:28 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:28 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:28 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:29 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:29 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:29 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:29 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:29 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:29 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:29 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:29 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:30 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:30 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:30 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:30 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:30 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:30 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:30 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:30 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:31 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:31 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:31 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:31 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:31 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:31 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:31 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:31 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:31 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:31 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:31 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:31 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:31 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:31 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:31 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:31 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:31 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:31 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:31 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:31 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:31 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:31 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:31 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:31 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:31 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:50:31 INFO  [main]: There is no such identifier, we go further
+2022-07-21 17:50:31 INFO  [main]: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:31 WARN  [main]: HHH10001002: Using built-in connection pool (not intended for production use)
+2022-07-21 17:50:31 INFO  [main]: HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2022-07-21 17:50:31 INFO  [main]: HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/my_db?useSSL=false&serverTimezone=UTC]
+2022-07-21 17:50:31 INFO  [main]: HHH10001001: Connection properties: {password=****, user=bestuser}
+2022-07-21 17:50:31 INFO  [main]: HHH10001003: Autocommit mode: false
+2022-07-21 17:50:31 INFO  [main]: HHH10001115: Connection pool size: 20 (min=1)
+2022-07-21 17:50:31 INFO  [main]: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-07-21 17:57:44 INFO  [main]: Creating webDriver
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:06 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:07 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:08 INFO  [main]: car link was added successfully
+2022-07-21 17:58:09 INFO  [main]: enter brand page Продажа AC Cobra: цена легковых автомобилей AC Cobra, частные объявления — DRIVE2.RU
+2022-07-21 17:58:14 INFO  [main]: No Продажа AC Cobra: цена легковых автомобилей AC Cobra, частные объявления — DRIVE2.RU at the moment 2022-07-21T17:58:14.636881200 not found
+2022-07-21 17:58:15 INFO  [main]: enter brand page Продажа Acura: цена легковых автомобилей Acura, частные объявления — DRIVE2.RU
+2022-07-21 17:58:15 INFO  [main]: Login to the page of the car brand is successful, I'm starting to collect items.
