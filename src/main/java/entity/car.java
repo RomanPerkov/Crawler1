@@ -2,6 +2,9 @@ package entity;
 
 import jakarta.persistence.*;
 
+/**
+ * Класс описывает объект машину
+ */
 @Entity
 @Table(name = "car")
 public class car {
