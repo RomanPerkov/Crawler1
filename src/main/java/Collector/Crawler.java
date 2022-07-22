@@ -170,6 +170,7 @@ public class Crawler {
      * объект авто, возвращает этот объект.
      */
     public car collector(href link) {
+        createWebDriver();
         System.out.println(link.getHref());
         String linkHref = link.getHref();
         car car;
@@ -470,14 +471,14 @@ public class Crawler {
 
         Crawler crawler = new Crawler();
         // crawler.scanning();   // соберет все ссылки авто в продаже в БД
-        // crawler.createObjectsCarInTableDataBase(); // считывает объекты ссылок и на их основе создает сущности авто в БД (используется при первом запуске)
+         crawler.createObjectsCarInTableDataBase(); // считывает объекты ссылок и на их основе создает сущности авто в БД (используется при первом запуске)
 
 
         /**
          * Когда нужно обновить БД ( удалить авто которых уже нет в продаже, добавить новые) нужно очистить таблицу в объектами ссылок и повторно запустить scanning(), потом использовать этот метод
          * метод удалит авто которых нет в продаже и дополнит таблицу новыми авто
          */
-        crawler.removingInvalidAndAddNewLinksFromDataBase();
+        //crawler.removingInvalidAndAddNewLinksFromDataBase();
 
 
     }

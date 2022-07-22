@@ -28,13 +28,13 @@
 CREATE TABLE my_db.car (
   id int NOT NULL AUTO_INCREMENT,
   href varchar(300),
-  productionEar varchar(100),
+  production_ear varchar(100),
   price varchar(100),
   brand varchar(100),
   model varchar(100),
-  engineCapacity varchar(100),
+  engine_capacity varchar(100),
   mileage varchar(100),
-  tradeAccount varchar(100),
+  trade_account varchar(100),
   PRIMARY KEY (id)
 );
 

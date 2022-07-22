@@ -15,7 +15,7 @@ public class car {
     private String id;
     @Column(name = "href")
     private String href;
-    @Column(name = "productionEar")
+    @Column(name = "production_ear")
     private String productionEar;
     @Column(name = "price")
     private String price;
@@ -23,11 +23,11 @@ public class car {
     private String brand;
     @Column(name = "model")
     private String model;
-    @Column(name = "engineCapacity")
+    @Column(name = "engine_capacity")
     private String engineCapacity;
     @Column(name = "mileage")
     private String mileage;
-    @Column(name = "tradeAccount")
+    @Column(name = "trade_account")
     private String tradeAccount;
 
 
